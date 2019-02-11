@@ -1,0 +1,25 @@
+{
+  "name": "holidayserver",
+  "version": "1.0.0",
+  "description": "server for holiday app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "author": "Ingeborg Slegers",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "pg": "^7.7.1",
+    "sequelize": "^4.41.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}

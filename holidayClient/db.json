@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "title": "Drink Hot Cocoa",
+      "id": "001"
+    },
+    {
+      "title": "Go Caroling",
+      "id": "002"
+    },
+    {
+      "title": "Bake GingerBread Cookies",
+      "id": "003"
+    },
+    {
+      "title": "Trim the Tree",
+      "id": "004"
+    },
+    {
+      "title": "Ice Skating",
+      "id": "005"
+    }
+  ]
+}
